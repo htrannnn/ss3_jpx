@@ -39,7 +39,7 @@ const students = [
 ];
 
 const table = (
-	<table className="table">
+	<table className="table table-striped table-light">
 		<thead>
 			<tr>
 				<th>Company</th>
